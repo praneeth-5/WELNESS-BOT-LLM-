@@ -8,4 +8,4 @@ Trained to 20 epochs.
 You can acess the model:
 https://drive.google.com/file/d/1-Udz7NhgZd8uSyqt4A-Ju9Oq1XWjQgam/view?usp=sharing
 
-We have utilized Q-LORA finetuning to convert into 4bit quantization for better performance on lower end systes.
+We have utilized Q-LORA finetuning to convert into 4bit quantization for better performance on lower end systems.
